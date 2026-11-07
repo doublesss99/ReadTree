@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README_zh.md)
 # ReadTree
 
 **An open research reading framework for building literature knowledge trees.**
